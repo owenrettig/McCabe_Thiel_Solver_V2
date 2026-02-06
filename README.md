@@ -1,0 +1,1 @@
+This is a python script that will plot a McCabe Thiele diagram with stepped off stages given minimal information about the problem. The included excel file is how the data is brought into python. Any amount of x and y data can be utilized and either a reflux ratio or boilup ratio can be proved ( functionality not yet ready )
